@@ -1,1 +1,2 @@
 This is sample text
+Adding some new content in the feature branch
